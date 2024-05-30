@@ -1,0 +1,1 @@
+# Applying-One_Versus_All_technique_and_use_Minimum_Sum_Squared_Error_MSSE
